@@ -6,10 +6,7 @@ metadata:
   links:
     - url: https://settleup-2c61f.web.app/
       title: Open Application
-  annotations:
-    backstage.io/techdocs-ref: url:<URL_TO_TECHDOCS> # Optional if you're using TechDocs
 spec:
   type: website
   lifecycle: production
-  owner: team-name
-
+  owner: frontend-team
